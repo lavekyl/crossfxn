@@ -1,0 +1,13 @@
+/*
+Theme Name: Kyle Laverty
+Theme URI: https://www.kylelaverty.com/
+Author: Kyle Laverty
+Author URI: https://www.kylelaverty.com/
+Description: Custom WordPress theme for my personal site.
+Version: 1.0
+Text Domain: kylelaverty
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
